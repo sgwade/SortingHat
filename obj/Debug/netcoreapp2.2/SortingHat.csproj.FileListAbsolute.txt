@@ -1,0 +1,11 @@
+C:\Users\Sam\Desktop\C#\SortingHat\bin\Debug\netcoreapp2.2\SortingHat.deps.json
+C:\Users\Sam\Desktop\C#\SortingHat\bin\Debug\netcoreapp2.2\SortingHat.runtimeconfig.json
+C:\Users\Sam\Desktop\C#\SortingHat\bin\Debug\netcoreapp2.2\SortingHat.runtimeconfig.dev.json
+C:\Users\Sam\Desktop\C#\SortingHat\bin\Debug\netcoreapp2.2\SortingHat.dll
+C:\Users\Sam\Desktop\C#\SortingHat\bin\Debug\netcoreapp2.2\SortingHat.pdb
+C:\Users\Sam\Desktop\C#\SortingHat\obj\Debug\netcoreapp2.2\SortingHat.csprojAssemblyReference.cache
+C:\Users\Sam\Desktop\C#\SortingHat\obj\Debug\netcoreapp2.2\SortingHat.csproj.CoreCompileInputs.cache
+C:\Users\Sam\Desktop\C#\SortingHat\obj\Debug\netcoreapp2.2\SortingHat.AssemblyInfoInputs.cache
+C:\Users\Sam\Desktop\C#\SortingHat\obj\Debug\netcoreapp2.2\SortingHat.AssemblyInfo.cs
+C:\Users\Sam\Desktop\C#\SortingHat\obj\Debug\netcoreapp2.2\SortingHat.dll
+C:\Users\Sam\Desktop\C#\SortingHat\obj\Debug\netcoreapp2.2\SortingHat.pdb
